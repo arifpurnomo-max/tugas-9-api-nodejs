@@ -17,7 +17,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'testing_database',
+  database: 'login_db',
 });
 
 // cek koneksi ke database mysql
